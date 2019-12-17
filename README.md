@@ -5,11 +5,7 @@ Matris Tersi Bulma
 Girilen veya random oluşturulan matrisin transpozunu, tersini ve karesel olmayan matrisin tersini hesaplar.
 
 ![giriş ekranı](ss1.JPG)
-
-![EK](Ekran Alıntısı3.PNG)
-
-![EK](Ekran Alıntısı4.PNG)
-
-![EK](Ekran Alıntısı5.PNG)
-
-![EK](Ekran Alıntısı6.PNG)
+![giriş ekranı](Ekran Alıntısı3.JPG)
+![giriş ekranı](Ekran Alıntısı4.JPG)
+![giriş ekranı](Ekran Alıntısı5.JPG)
+![giriş ekranı](Ekran Alıntısı6.JPG)

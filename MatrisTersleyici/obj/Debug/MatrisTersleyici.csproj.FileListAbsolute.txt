@@ -1,0 +1,19 @@
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.Form1.resources
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.Properties.Resources.resources
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\bin\Debug\MatrisTersleyici.exe.config
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\bin\Debug\MatrisTersleyici.exe
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\bin\Debug\MatrisTersleyici.pdb
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.exe
+C:\Users\ibrah\source\repos\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.pdb
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\bin\Debug\MatrisTersleyici.exe.config
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.exe
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.pdb
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\bin\Debug\MatrisTersleyici.exe
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\bin\Debug\MatrisTersleyici.pdb
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.csprojResolveAssemblyReference.cache
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.Form1.resources
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.Properties.Resources.resources
+C:\Users\Sevde\Documents\Visual Studio 2015\Projects\MatrisTersleyici\MatrisTersleyici\obj\Debug\MatrisTersleyici.csproj.GenerateResource.Cache

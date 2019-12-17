@@ -9,3 +9,4 @@ Girilen veya random oluşturulan matrisin transpozunu, tersini ve karesel olmaya
 ![giriş ekranı](E2.PNG)
 ![giriş ekranı](E3.PNG)
 ![giriş ekranı](E4.PNG)
+![giriş ekranı](ss5.JPG)

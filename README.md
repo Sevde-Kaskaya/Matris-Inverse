@@ -6,10 +6,10 @@ Girilen veya random oluşturulan matrisin transpozunu, tersini ve karesel olmaya
 
 ![giriş ekranı](ss1.JPG)
 
-![giriş ekranı](Ekran Alıntısı3.PNG)
+![1](Ekran Alıntısı3.PNG)
 
-![giriş ekranı](Ekran Alıntısı4.PNG)
+![2](Ekran Alıntısı4.PNG)
 
-![giriş ekranı](Ekran Alıntısı5.PNG)
+![3](Ekran Alıntısı5.PNG)
 
-![giriş ekranı](Ekran Alıntısı6.PNG)
+![4](Ekran Alıntısı6.PNG)
